@@ -1,1 +1,1 @@
-module.exports = require('./lib/webdriver-sessions');
+module.exports = require('./lib/selenium-sessions');
